@@ -8,8 +8,9 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "flow",
   "css": "./custom.css",
+  "h1": "font-family: 'Kanit', sans-serif",
   "footer": "Copyright 2023 Douglas Salin",
   "usage-stats": false
 }
