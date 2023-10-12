@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Douglas Salin Photographer Archive Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Copyright 2023 Douglas Salin",
   "usage-stats": false
 }
