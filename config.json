@@ -1,4 +1,4 @@
-{
+  {
   "input": "./gallery",
   "output": "./build_output",
   "title": "Douglas Salin, Photographer",
@@ -9,7 +9,7 @@
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
-  "css": "./custom.css",
+  "theme-style": "./custom.css",
   "footer": "Copyright 2023 Douglas Salin",
   "usage-stats": false
 }
