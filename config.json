@@ -2,6 +2,8 @@
   "input": "./gallery",
   "output": "./build_output",
   "title": "Douglas Salin Photographer Archive Gallery",
+  "thumb-size": 200,
+  "large-size": 1000,
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
