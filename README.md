@@ -1,3 +1,4 @@
+[![Publish Gallery](https://github.com/inoculate23/dsparchive/actions/workflows/gallery.yml/badge.svg?branch=master)](https://github.com/inoculate23/dsparchive/actions/workflows/gallery.yml)
 # Github Pages Gallery
 Host your photo/video gallery in Github pages easily using Thumbsup & Github Actions for free.
 
