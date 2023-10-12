@@ -1,1 +1,21 @@
-/* Your custom styles goes here */
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+html,
+body {
+    background-color: black;
+    margin: 15px;
+}
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+    ;
+}
+
+h2 {
+    font-family: 'Rubik', sans-serif;
+    ;
+}
+
+h3 {
+    font-family: 'Rubik', sans-serif;
+    ;
+}
