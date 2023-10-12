@@ -7,15 +7,15 @@ body {
 
 h1 {
     font-family: 'Rubik', sans-serif;
-    ;
+    color: rgb(240, 181, 17);
 }
 
 h2 {
     font-family: 'Rubik', sans-serif;
-    ;
+    color: white;
 }
 
 h3 {
     font-family: 'Rubik', sans-serif;
-    ;
+    color: lightslategrey;
 }
