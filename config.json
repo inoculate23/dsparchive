@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Douglas Salin Photographer Archive Gallery",
+  "title": "Douglas Salin, Photographer",
   "thumb-size": 200,
   "large-size": 1000,
   "sort-albums-by": "title",
